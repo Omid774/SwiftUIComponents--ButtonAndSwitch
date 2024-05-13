@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		F78B6B8E2BF20E83001981B7 /* ButtonAndSwitchApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F78B6B8D2BF20E83001981B7 /* ButtonAndSwitchApp.swift */; };
-		F78B6B902BF20E83001981B7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F78B6B8F2BF20E83001981B7 /* ContentView.swift */; };
+		F78B6B902BF20E83001981B7 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F78B6B8F2BF20E83001981B7 /* MainView.swift */; };
 		F78B6B922BF20E84001981B7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F78B6B912BF20E84001981B7 /* Assets.xcassets */; };
 		F78B6B952BF20E84001981B7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F78B6B942BF20E84001981B7 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		F78B6B8A2BF20E83001981B7 /* ButtonAndSwitch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ButtonAndSwitch.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F78B6B8D2BF20E83001981B7 /* ButtonAndSwitchApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonAndSwitchApp.swift; sourceTree = "<group>"; };
-		F78B6B8F2BF20E83001981B7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		F78B6B8F2BF20E83001981B7 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
 		F78B6B912BF20E84001981B7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F78B6B942BF20E84001981B7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -52,7 +52,7 @@
 			isa = PBXGroup;
 			children = (
 				F78B6B8D2BF20E83001981B7 /* ButtonAndSwitchApp.swift */,
-				F78B6B8F2BF20E83001981B7 /* ContentView.swift */,
+				F78B6B8F2BF20E83001981B7 /* MainView.swift */,
 				F78B6B912BF20E84001981B7 /* Assets.xcassets */,
 				F78B6B932BF20E84001981B7 /* Preview Content */,
 			);
@@ -137,7 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F78B6B902BF20E83001981B7 /* ContentView.swift in Sources */,
+				F78B6B902BF20E83001981B7 /* MainView.swift in Sources */,
 				F78B6B8E2BF20E83001981B7 /* ButtonAndSwitchApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
